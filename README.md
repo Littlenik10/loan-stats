@@ -6,7 +6,7 @@ https://public.tableau.com/app/profile/nik.si.qin/viz/AAW317Part1/LoanDashboard
 ![image](https://github.com/user-attachments/assets/8815f599-2b0a-4182-86a1-de3dd596b502)
 
 ### 📝 Project Overview:
-This dashboard was created to analyze loan performance data and uncover key insights into loan distribution, customer demographics, and financial behavior. It was built using Tableau as part of an academic business analytics project.
+This dashboard was created using Tableau to analyze loan amount trends across different variables such as loan term, home ownership, month of issuance, and debt-to-income (DTI) ratio. The goal was to identify patterns in loan distributions and highlight key financial indicators such as median loan amount, total loan volume, and interest rates.
 
 ### 🧩 Key Features of the Dashboard:   
 #### 1. KPI Cards (Top Summary):   

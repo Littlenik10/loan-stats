@@ -6,7 +6,8 @@ https://public.tableau.com/app/profile/nik.si.qin/viz/AAW317Part1/LoanDashboard
 ![image](https://github.com/user-attachments/assets/8815f599-2b0a-4182-86a1-de3dd596b502)
 
 ### 📝 Project Overview:
-This dashboard was created using Tableau to analyze loan amount trends across different variables such as loan term, home ownership, month of issuance, and debt-to-income (DTI) ratio. The goal was to identify patterns in loan distributions and highlight key financial indicators such as median loan amount, total loan volume, and interest rates.
+A Lending Club loan dataset was analyzed using Excel for preprocessing and Tableau for interactive visualization. The goal was to identify patterns in borrower behavior, loan performance, and risk indicators to support better credit decision-making. Key attributes included loan amount, term, interest rate, borrower income, employment length, home ownership, debt-to-income ratio, and loan status.
+
 
 ### 🧩 Key Features of the Dashboard:   
 #### 1. KPI Cards (Top Summary):   

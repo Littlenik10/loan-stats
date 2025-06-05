@@ -16,7 +16,7 @@ This dashboard was created using Tableau to analyze loan amount trends across di
 - Median DTI (Debt-to-Income): 17.63   
 
 #### 2. Loan Amount by Term (Bar Chart):   
-- Shows loan distribution between short and long-term loans.   
+- Compared short-term and long-term loan distributions to assess borrower preferences and risk segmentation. 
 - Visualizes the percentage of total loan amount per term.   
 
 #### 3. Loan Amount by Ownership (Horizontal Bar Chart):   
@@ -29,7 +29,10 @@ This dashboard was created using Tableau to analyze loan amount trends across di
 
 #### 5.Loan Amount by DTI (Scatter Plot):   
 - Analyzes the relationship between debt-to-income ratio and loan amount.   
-- Visualizes risk levels — very high or very low DTI values tend to associate with lower loan amounts.   
+- Visualizes risk levels — very high or very low DTI values tend to associate with lower loan amounts.
+
+### 🔍 Key Insight:   
+One key takeaway was that lower-grade loans (like Grade D or E) were associated with higher interest rates and a higher likelihood of default, especially among borrowers with high DTI or low income. This has strong implications for credit risk modeling and lending policy.   
 
 ### ⚙️ Tools & Skills Used:    
 - Tableau Public (dashboard design, filters, tooltip interactivity)   
